@@ -28,7 +28,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-12 pt-8 border-t border-stone-200 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-stone-400 uppercase tracking-widest font-bold">
-          <p>© 2024 PaulBert's Cabin. All rights reserved.</p>
+          <p>© 2026 PaulBert's Cabin. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-stone-600">Privacy Policy</a>
             <a href="#" className="hover:text-stone-600">Terms of Service</a>

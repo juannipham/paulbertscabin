@@ -17,12 +17,12 @@ export default function Contact() {
               <ContactItem 
                 icon={<Phone className="text-stone-900" />} 
                 title="Call or WhatsApp" 
-                detail="+63 917 123 4567" 
+                detail="+63 956 938 3521" 
               />
               <ContactItem 
                 icon={<Mail className="text-stone-900" />} 
                 title="Email Us" 
-                detail="hello@paulbertscabin.com" 
+                detail="paulbertscabin@gmail.com.com" 
               />
               <ContactItem 
                 icon={<MapPin className="text-stone-900" />} 
@@ -32,10 +32,10 @@ export default function Contact() {
             </div>
 
             <div className="mt-12 flex gap-4">
-              <a href="#" className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all">
+              <a href="https://www.facebook.com/paulbertscabins" className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all">
+              <a href="https://www.facebook.com/paulbertscabins" className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all">
                 <Facebook size={20} />
               </a>
             </div>
